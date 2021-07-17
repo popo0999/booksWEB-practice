@@ -21,6 +21,7 @@ header nav{
     position: relative;
     position: fixed;
     border-bottom: 2px solid #94C722;
+    z-index: 999;
 }
 header nav a{
     text-decoration: none;
